@@ -10,7 +10,7 @@ Las variantes de ajedrez para tres jugadores (así como otros juegos de tres jug
 
 Se han ideado muchas variaciones del ajedrez de tres jugadores. Por lo general, usan un tablero no estándar, por ejemplo, un tablero hexagonal o de tres lados que conecta las celdas centrales de una manera especial.  
 
-![Configuración inicial de ajedrez para tres jugadores. Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-board_layout.jpg)
+![Configuración inicial de ajedrez para tres jugadores. Imagen por ymimports](./figs/htp-3pc-board_layout.png)
 
 El tablero de ajedrez tiene forma de hexágono y está dividido en tres áreas con 32 cuadrados cada una. Cada área tiene una base determinada por un lado del hexágono marcado con letras y sobre el cual se colocan las piezas de ajedrez antes del comienzo de un juego. Los cuadrados oscuros en un tablero de ajedrez pueden ser de un solo color o, en la versión para principiantes, el área del tablero de cada jugador está pintada de un color diferente.  
 
@@ -24,27 +24,27 @@ Todos los principios relativos al movimiento de las piezas son los mismos que en
 
 ### La Reina  
 
-![Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-queen.gif)
+![Imagen por ymimports](./figs/htp-3pc-queen.gif)
 
 ### La Torre  
 
-![Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-rook.gif)
+![Imagen por ymimports](./figs/htp-3pc-rook.gif)
 
 ### El Alfil  
 
-![Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-bishop.gif)
+![Imagen por ymimports](./figs/htp-3pc-bishop.gif)
 
 ### O Caballo  
 
-![Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-knight.gif)
+![Imagen por ymimports](./figs/htp-3pc-knight.gif)
 
 ### O Rey  
 
-![Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-knight.gif)
+![Imagen por ymimports](./figs/htp-3pc-knight.gif)
 
 ### El peón  
 
-![Imagen por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-pawn.gif)
+![Imagen por ymimports](./figs/htp-3pc-pawn.gif)
 
 ## Variaciones de reglas 
 

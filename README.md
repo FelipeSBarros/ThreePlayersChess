@@ -10,7 +10,7 @@ Variantes de xadrez de três jogadores (assim como outros jogos de três jogador
 
 Muitas variações de xadrez de três jogadores foram criadas. Eles costumam usar uma placa não padronizada, por exemplo, uma placa hexagonal ou de três lados que conecta as células centrais de maneira especial.  
 
-![configuração inicial do xadrez de três jogadores. Imagem por ymimports](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-board_layout.jpg)
+![configuração inicial do xadrez de três jogadores. Imagem por ymimports](./figs/htp-3pc-board_layout.png)
 
 O tabuleiro de xadrez tem a forma de um hexágono e é dividido em três áreas com 32 quadrados cada. Cada área tem uma base determinada por um dos lados do hexágono marcado por letras e sobre a qual são colocadas as peças de xadrez antes do início de uma partida. As casas escuras de um tabuleiro de xadrez podem ser de uma única cor ou, na versão para iniciantes, a área do tabuleiro de cada jogador é pintada de uma cor diferente.  
 
@@ -24,27 +24,27 @@ Todos os princípios relativos ao movimento das peças são os mesmos do xadrez 
 
 ### A Rainha  
 
-![](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-queen.gif)
+![](./figs/htp-3pc-queen.gif)
 
 ### A Torre  
 
-![](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-rook.gif)
+![](./figs/htp-3pc-rook.gif)
 
 ### O Bispo  
 
-![](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-bishop.gif)
+![](./figs/htp-3pc-bishop.gif)
 
 ### O Cavalo  
 
-![](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-knight.gif)
+![](./figs/htp-3pc-knight.gif)
 
 ### O Rei  
 
-![](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-knight.gif)
+![](./figs/htp-3pc-knight.gif)
 
 ### O Peão  
 
-![](https://cdn.shopify.com/s/files/1/0876/1176/files/htp-3pc-pawn.gif)
+![](./figs/htp-3pc-pawn.gif)
 
 ## Variações de Regras  
 
